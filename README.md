@@ -22,4 +22,3 @@ Follow the steps below to get started:
    Clone this repository to your local system using:
    ```bash
    git clone https://github.com/quantra-go-algo/Quantra_Course
-   cd quantra-free-course
