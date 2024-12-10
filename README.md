@@ -4,19 +4,111 @@ Welcome to the **Quantra Free Course and Source Repository**, your ultimate reso
 
 ## 📂 Repository Contents
 
-### **1. Options and Futures: Trading Strategies**  
-Learn fundamental and advanced options and futures strategies with real-world examples.
+- ### Options and Futures: Trading Strategies
+  - Learn fundamental and advanced options and futures strategies with real-world examples.
 
-### **2. Quantitative Trading: Introduction to Machine Learning**  
-Explore the basics of machine learning in trading through interactive Jupyter notebooks.
+- ### Quantitative Trading: Introduction to Machine Learning 
+  - Explore the basics of machine learning in trading through interactive Jupyter notebooks.
 
-### **3. Start Algorithmic Trading: Python for Trading**  
-Dive into algorithmic trading by implementing Python-based strategies from scratch.
+- ### Start Algorithmic Trading: Python for Trading
+  - Dive into algorithmic trading by implementing Python-based strategies from scratch.
+
+---
 
 Each section includes:
 - Step-by-step tutorials.
 - Code for hands-on learning.
 - Practical exercises for deeper understanding.
+
+
+---
+
+<div align="center">
+  <h2>Free Quantra Courses</h2>
+  <div style="display: inline-block; text-align: left; width: 90%;">
+    <table border="1" cellspacing="0" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+      <thead>
+        <tr style="background-color: #f2f2f2; text-align: left;">
+          <th>Course Name</th>
+          <th>Co-Authored By</th>
+          <th>Level</th>
+          <th>Description</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Introduction to Machine Learning for Trading</td>
+          <td>QuantInsti®</td>
+          <td>Beginner</td>
+          <td>Basic terminology, Research Papers, Working Models</td>
+          <td><a href="/course/introduction-to-machine-learning-for-trading" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Options Trading Strategies In Python: Basic</td>
+          <td>NSE Academy</td>
+          <td>Beginner</td>
+          <td>Covered Call, Protective Put, Iron Condor, Bull Call</td>
+          <td><a href="/course/options-trading-strategies-python-basic" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Automated Trading with IBridgePy</td>
+          <td>Interactive Brokers®</td>
+          <td>Beginner</td>
+          <td>IBridgePy API, Installations, Order & Portfolio Management</td>
+          <td><a href="/course/Automated-Trading-IBridgePY-Interactive-Brokers-Platform" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Python for Trading: Basic</td>
+          <td>QuantInsti®</td>
+          <td>Beginner</td>
+          <td>Import Stock Data, Manipulation and Visualization</td>
+          <td><a href="/course/python-trading-basic" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Forex Trading Using Python: Basics</td>
+          <td>FXCM</td>
+          <td>Beginner</td>
+          <td>Momentum Trading, Performance on historical prices</td>
+          <td><a href="/course/forex-trading-python-basics" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Quant Interview Questions Preparation</td>
+          <td>QuantInsti®</td>
+          <td>Intermediate</td>
+          <td>Interview Preparation and Resume Building</td>
+          <td><a href="/course/quant-interview-questions-preparation" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Getting Market Data: Stocks, Crypto, News</td>
+          <td>QuantInsti®</td>
+          <td>Beginner</td>
+          <td>Time Series Data, News Headlines, World Bank Data</td>
+          <td><a href="/course/getting-market-data" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Introduction to Data Science</td>
+          <td>QuantInsti®</td>
+          <td>Beginner</td>
+          <td>Work on a project for sports winning team prediction</td>
+          <td><a href="/course/introduction-to-data-science" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+        <tr>
+          <td>Stock Market Basics</td>
+          <td>QuantInsti®</td>
+          <td>Beginner</td>
+          <td>The first step to trading in the markets</td>
+          <td><a href="/course/stock-market-basics" style="text-decoration: none; color: #28a745; font-weight: bold;">Explore Course</a></td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+---
+
+
+
 
 ## 🌐 About Quantra
 
