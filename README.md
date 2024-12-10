@@ -4,8 +4,9 @@ Welcome to the **Quantra Free Course and Source Repository**, your ultimate reso
 
 ## 📂 Repository Contents
 
-- ### Options and Futures: Trading Strategies
-  - Learn fundamental and advanced options and futures strategies with real-world examples.
+- ### Options and Futures: 
+  - Learn fundamentals of Options Trading Strategies in Python.
+
 
 - ### Quantitative Trading: Introduction to Machine Learning 
   - Explore the basics of machine learning in trading through interactive Jupyter notebooks.
