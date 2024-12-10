@@ -134,30 +134,60 @@ Explore Quantra and take the first step toward mastering algorithmic trading:
 ## 📖 Learning Tracks
 
 Quantra provides **8 specialized learning tracks** to cater to different levels of expertise and trading interests. Each track features curated content to help you master trading concepts effectively:
+<div style="display: inline-block; text-align: center; width: 100%; margin: 20px auto;">
+  <table style="border-collapse: collapse; width: 100%; text-align: left; border: 1px solid #ccc;">
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        🎓 <strong>Track 1: Algorithmic Trading for Beginners</strong>
+        <br>
+        <p style="margin: 10px 0;">Ideal for beginners looking to understand the basics of algorithmic trading.</p>
+      </td>
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        📈 <strong>Track 2: Technical Analysis Using Quantitative Methods</strong>
+        <br>
+        <p style="margin: 10px 0;">Learn to apply quantitative techniques for technical analysis.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        📊 <strong>Track 3: Quantitative Trading in Futures and Options Markets</strong>
+        <br>
+        <p style="margin: 10px 0;">Master the intricacies of trading in futures and options markets.</p>
+      </td>
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        🤖 <strong>Track 4: Machine Learning & Deep Learning in Trading</strong>
+        <br>
+        <p style="margin: 10px 0;">Leverage machine learning and deep learning to create predictive models.</p>
+      </td>
+    </tr>
+    <tr style="background-color: #f9f9f9;">
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        🧠 <strong>Track 5: Artificial Intelligence in Trading Advanced</strong>
+        <br>
+        <p style="margin: 10px 0;">Explore AI-driven approaches for advanced trading strategies.</p>
+      </td>
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        💹 <strong>Track 6: Algorithmic Trading in Cryptocurrency and Forex</strong>
+        <br>
+        <p style="margin: 10px 0;">Dive into cryptocurrency and forex markets with algorithmic methods.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        📁 <strong>Track 7: Portfolio Management Using Quantitative Methods</strong>
+        <br>
+        <p style="margin: 10px 0;">Learn to construct, optimize, and manage portfolios quantitatively.</p>
+      </td>
+      <td style="padding: 20px; border: 1px solid #ccc;">
+        ⚡ <strong>Track 8: Advanced Algorithmic Trading Strategies</strong>
+        <br>
+        <p style="margin: 10px 0;">Discover sophisticated trading strategies for diverse financial instruments.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-### **Track 1**: Algorithmic Trading for Beginners  
-Ideal for beginners looking to understand the basics of algorithmic trading.
 
-### **Track 2**: Technical Analysis Using Quantitative Methods  
-Learn to apply quantitative techniques for technical analysis.
-
-### **Track 3**: Quantitative Trading in Futures and Options Markets  
-Master the intricacies of trading in futures and options markets.
-
-### **Track 4**: Machine Learning & Deep Learning in Trading   
-Leverage machine learning and deep learning to create predictive models.
-
-### **Track 5**: Artificial Intelligence in Trading Advanced  
-Explore AI-driven approaches for advanced trading strategies.
-
-### **Track 6**: Algorithmic Trading in Cryptocurrency and Forex  
-Dive into cryptocurrency and forex markets with algorithmic methods.
-
-### **Track 7**: Portfolio Management Using Quantitative Methods  
-Learn to construct, optimize, and manage portfolios quantitatively.
-
-### **Track 8**: Advanced Algorithmic Trading Strategies  
-Discover sophisticated trading strategies for diverse financial instruments.
 
 ---
 
