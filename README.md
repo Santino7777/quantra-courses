@@ -1,3 +1,5 @@
+> ⚠ **Note:** This repository is an **old version**. The latest version is maintained at [QuantInsti GitHub](https://github.com/QuantInsti).
+
 # Quantra Free Course and Source Repository 🎓
 
 Welcome to the **Quantra Free Course and Source Repository**, your ultimate resource for mastering **algorithmic trading**, **quantitative finance**, and **data-driven trading strategies**. This repository offers free educational resources, Jupyter notebooks, and hands-on exercises designed to help you learn and apply trading concepts effectively.
